@@ -28,7 +28,7 @@ My primary interests include:
 * Database Design
 * Cloud & Infrastructure
 
-Currently, I'm working with **.NET Core** while continuously expanding my knowledge in backend technologies, security engineering, and system design.
+Currently, I'm working with **Node.js** while continuously expanding my knowledge in backend technologies, security engineering, and system design.
 
 ---
 
